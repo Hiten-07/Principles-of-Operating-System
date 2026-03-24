@@ -1,0 +1,12 @@
+A process is a program in execution.
+
+Key concepts:
+Process State: New, Ready, Running, Waiting, Terminated
+Process Control Block (PCB): Stores process information
+Context Switching: Switching CPU from one process to another
+CPU Scheduling: Deciding which process gets CPU time
+Types of Scheduling Algorithms:
+FCFS (First Come First Serve)
+SJF (Shortest Job First)
+Round Robin
+Priority Scheduling
