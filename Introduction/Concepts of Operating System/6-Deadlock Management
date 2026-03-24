@@ -1,0 +1,12 @@
+Deadlock occurs when processes wait forever for resources.
+
+Necessary conditions (Coffman conditions):
+Mutual exclusion
+Hold and wait
+No preemption
+Circular wait
+Deadlock handling methods:
+Prevention
+Avoidance
+Detection
+Recovery
