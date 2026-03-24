@@ -1,0 +1,13 @@
+Multiple programs are kept in memory and CPU switches between them.
+
+Characteristics:
+Improves CPU utilization
+Reduces idle time
+Requires memory management
+Advantage:
+
+✔ Better resource utilization
+
+Disadvantage:
+
+✘ Complex scheduling
