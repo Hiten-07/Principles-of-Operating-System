@@ -1,0 +1,16 @@
+Processes data instantly within a fixed time limit.
+
+Types:
+
+Hard Real Time OS
+
+Strict deadlines
+Example: Medical systems
+
+Soft Real Time OS
+
+Flexible deadlines
+Example: Multimedia systems
+Examples:
+VxWorks
+QNX
