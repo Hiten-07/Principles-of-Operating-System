@@ -1,0 +1,13 @@
+The OS manages files and directories.
+
+Functions:
+File creation and deletion
+Directory management
+File access control
+Backup management
+File operations:
+Open
+Read
+Write
+Close
+Delete
