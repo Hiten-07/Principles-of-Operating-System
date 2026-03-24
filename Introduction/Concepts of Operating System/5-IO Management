@@ -1,0 +1,6 @@
+Manages communication between system and devices.
+
+Techniques:
+Buffering → Temporary data storage
+Caching → Fast access storage
+Spooling → Queue processing (example: printing queue)
