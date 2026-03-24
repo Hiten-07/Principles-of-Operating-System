@@ -1,0 +1,15 @@
+Controls hardware devices through device drivers.
+
+Responsibilities:
+Device allocation
+Device scheduling
+Buffering
+Spooling
+Caching
+
+Examples of devices:
+
+Printer
+Keyboard
+Mouse
+Hard disk
