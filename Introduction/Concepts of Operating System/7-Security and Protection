@@ -1,0 +1,7 @@
+Protects system data and resources.
+
+Methods:
+Authentication (login/password)
+Authorization (permissions)
+Encryption
+Access control
