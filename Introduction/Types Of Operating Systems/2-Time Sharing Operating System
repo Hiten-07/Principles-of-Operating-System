@@ -1,0 +1,9 @@
+Allows multiple users to share system resources simultaneously.
+
+Characteristics:
+CPU time divided into small slices (time quantum)
+Fast response time
+Interactive systems
+Examples:
+UNIX
+Linux
