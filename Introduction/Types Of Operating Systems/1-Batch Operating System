@@ -1,0 +1,15 @@
+A Batch OS executes a group of jobs (batch) without user interaction.
+
+Characteristics:
+Jobs collected and executed in batches
+No direct user interaction
+High turnaround time
+Advantages:
+
+✔ Efficient for large repetitive jobs
+✔ Reduced idle time
+
+Disadvantages:
+
+✘ No interaction
+✘ Difficult debugging
