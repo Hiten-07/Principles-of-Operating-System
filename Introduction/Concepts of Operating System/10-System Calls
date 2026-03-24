@@ -1,0 +1,8 @@
+System calls allow programs to request services from the OS.
+
+Examples:
+
+Process control
+File management
+Device management
+Information maintenance
