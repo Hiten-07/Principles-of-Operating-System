@@ -1,0 +1,12 @@
+Memory management controls and coordinates computer memory.
+
+Key functions:
+Memory allocation and deallocation
+Tracking memory usage
+Providing virtual memory
+Important concepts:
+RAM management
+Paging
+Segmentation
+Virtual Memory
+Cache Memory
