@@ -1,0 +1,13 @@
+Used to get or set system information.
+
+Operations:
+Get system time
+Get process ID
+Set system data
+Get attributes
+
+Example system calls:
+
+getpid()
+alarm()
+sleep()
