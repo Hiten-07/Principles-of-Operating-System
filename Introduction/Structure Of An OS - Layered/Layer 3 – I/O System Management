@@ -1,0 +1,7 @@
+Controls input and output devices.
+
+Functions:
+Device drivers
+Buffering
+Caching
+Spooling
