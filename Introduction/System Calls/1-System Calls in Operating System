@@ -1,0 +1,8 @@
+A System Call is a mechanism that allows a user program to request services from the Operating System kernel. It acts as an interface between a process and the OS.
+
+Simple definition:
+
+System call = Request made by a program to the operating system for a service.
+
+Example:
+When you open a file, the program uses a system call to ask the OS to access the file.
