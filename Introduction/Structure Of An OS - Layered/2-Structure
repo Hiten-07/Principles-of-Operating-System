@@ -1,8 +1,8 @@
-The Layered Structure of an Operating System divides the OS into different layers (levels), where each layer performs specific functions. Each layer only interacts with the layer directly above or below it.
-
-Basic idea:
-
-Hardware → Lowest layer
-User Interface → Highest layer
-
-This design makes the OS easier to design, debug, and maintain.
+| Layer   | Function           |
+| ------- | ------------------ |
+| Layer 5 | User Interface     |
+| Layer 4 | System Programs    |
+| Layer 3 | I/O Management     |
+| Layer 2 | Memory Management  |
+| Layer 1 | Process Management |
+| Layer 0 | Hardware           |
