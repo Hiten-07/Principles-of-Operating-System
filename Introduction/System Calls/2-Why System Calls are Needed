@@ -1,0 +1,6 @@
+User programs cannot directly access hardware resources. System calls provide a safe way to access:
+
+Files
+Memory
+Devices
+Processes
