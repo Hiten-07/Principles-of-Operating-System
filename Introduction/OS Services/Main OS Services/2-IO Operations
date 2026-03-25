@@ -1,0 +1,9 @@
+The OS manages input and output devices.
+
+Functions:
+Read and write operations
+Device control
+Device drivers management
+
+Example:
+Keyboard input and printer output.
