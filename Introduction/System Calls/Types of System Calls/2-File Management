@@ -1,0 +1,16 @@
+Used for file operations.
+
+Operations:
+Create file
+Delete file
+Open file
+Close file
+Read file
+Write file
+
+Example system calls:
+
+open()
+read()
+write()
+close()
