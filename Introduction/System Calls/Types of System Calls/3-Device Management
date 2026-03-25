@@ -1,0 +1,10 @@
+Used to control hardware devices.
+
+Operations:
+Request device
+Release device
+Read/Write device
+Get device attributes
+
+Example:
+Printer and disk operations.
