@@ -1,0 +1,10 @@
+OS continuously monitors the system for errors.
+
+Types of errors:
+Memory errors
+Device errors
+Program errors
+OS actions:
+Take corrective measures
+Notify user
+Log errors
