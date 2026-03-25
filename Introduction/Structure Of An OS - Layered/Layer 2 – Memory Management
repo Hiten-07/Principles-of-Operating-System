@@ -1,0 +1,7 @@
+Manages main memory.
+
+Functions:
+Memory allocation
+Memory deallocation
+Virtual memory
+Paging and segmentation
