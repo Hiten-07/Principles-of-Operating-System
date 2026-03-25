@@ -1,0 +1,8 @@
+This is the lowest level.
+
+Includes:
+CPU
+Memory
+I/O Devices
+
+The OS directly controls hardware resources.
