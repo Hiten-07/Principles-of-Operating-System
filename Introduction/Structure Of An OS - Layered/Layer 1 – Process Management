@@ -1,0 +1,7 @@
+Handles execution of processes.
+
+Functions:
+Process creation
+Process scheduling
+Process termination
+CPU allocation
