@@ -1,0 +1,10 @@
+Used for communication between processes.
+
+Operations:
+Create communication connection
+Send messages
+Receive messages
+Methods:
+Pipes
+Shared memory
+Sockets
