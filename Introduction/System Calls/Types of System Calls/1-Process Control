@@ -1,0 +1,18 @@
+Used to manage processes.
+
+Operations:
+Create process
+Terminate process
+Load program
+Execute program
+Wait for process
+Allocate memory
+
+Example system calls:
+
+fork()
+exec()
+exit()
+wait()
+
+Used in systems like UNIX and Linux.
