@@ -1,0 +1,4 @@
+Step 1: User program requests service
+Step 2: System call interface receives request
+Step 3: Kernel performs operation
+Step 4: Result returned to program
