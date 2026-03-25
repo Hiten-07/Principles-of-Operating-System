@@ -1,0 +1,3 @@
+Example: Reading a file
+
+Program → System Call → OS Kernel → Hardware → Result → Program
