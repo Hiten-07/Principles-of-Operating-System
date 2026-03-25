@@ -1,0 +1,8 @@
+OS allows communication between processes.
+
+Types:
+Process to process communication
+Network communication
+Methods:
+Shared memory
+Message passing
