@@ -1,0 +1,9 @@
+The OS loads a program into memory and executes it.
+
+Functions:
+Load program into memory
+Run the program
+Handle program termination (normal/abnormal)
+
+Example:
+Running applications like Microsoft Word or Google Chrome.
