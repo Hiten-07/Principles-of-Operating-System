@@ -1,0 +1,12 @@
+A Virtual Machine works using a Hypervisor (Virtual Machine Monitor) which manages multiple virtual systems.
+
+Structure:
+Applications
+      ↓
+Guest Operating System
+      ↓
+Hypervisor (VMM)
+      ↓
+Host Operating System (optional)
+      ↓
+Physical Hardware
