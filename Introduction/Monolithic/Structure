@@ -1,0 +1,19 @@
+In this structure:
+
+All components are interconnected
+All services run in kernel space
+Components can directly communicate with each other
+Basic Structure:
+User Applications
+       ↓
+System Call Interface
+       ↓
+---------------------------------
+| Process Management            |
+| Memory Management             |
+| File System                   |
+| Device Drivers                |
+| I/O Management                |
+---------------------------------
+             ↓
+          Hardware
