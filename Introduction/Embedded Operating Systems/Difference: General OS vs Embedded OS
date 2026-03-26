@@ -1,0 +1,7 @@
+| Feature        | General OS               | Embedded OS     |
+| -------------- | ------------------------ | --------------- |
+| Purpose        | General computing        | Specific task   |
+| Size           | Large                    | Small           |
+| Flexibility    | High                     | Low             |
+| Examples       | Microsoft Windows, macOS | FreeRTOS        |
+| User Interface | Full GUI                 | Limited or none |
