@@ -1,0 +1,7 @@
+A Virtual Machine (VM) is a software-based computer that runs like a real physical computer. It allows multiple operating systems to run on a single physical machine.
+
+Simple definition:
+
+Virtual Machine = Software implementation of a physical computer.
+
+It creates a virtual environment that behaves like real hardware.
