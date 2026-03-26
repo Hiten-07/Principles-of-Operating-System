@@ -1,0 +1,12 @@
+Instead of putting everything inside the kernel (like Monolithic OS), the microkernel keeps only critical functions such as:
+
+Kernel functions:
+Process management
+Memory management (basic)
+Inter-Process Communication (IPC)
+Basic scheduling
+User space services:
+File system
+Device drivers
+Network services
+GUI services
