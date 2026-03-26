@@ -1,0 +1,5 @@
+A Microkernel Operating System is an OS structure where only essential functions are kept inside the kernel, while other services run in user space.
+
+Simple definition:
+
+Microkernel = Minimal kernel + other services outside the kernel.
