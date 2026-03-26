@@ -1,0 +1,8 @@
+| Feature         | Monolithic OS | Microkernel OS  |
+| --------------- | ------------- | --------------- |
+| Kernel Size     | Large         | Small           |
+| Performance     | Faster        | Slightly slower |
+| Security        | Less          | More            |
+| Maintenance     | Difficult     | Easier          |
+| Modularity      | Low           | High            |
+| Fault Isolation | Low           | High            |
