@@ -1,0 +1,5 @@
+A Monolithic Operating System is a structure where the entire OS works as a single large program running in kernel mode. All OS services like process management, memory management, file management, and device management are part of one big system.
+
+Simple definition:
+
+Monolithic OS = All OS services combined into one large kernel.
