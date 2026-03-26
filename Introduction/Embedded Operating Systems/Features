@@ -1,0 +1,18 @@
+1. Real-Time Operation
+
+Many embedded OS respond within strict time limits.
+
+2. Resource Efficiency
+
+Designed to work with:
+
+Low RAM
+Low CPU power
+Limited storage
+3. Stability
+
+Runs continuously without crashing.
+
+4. Hardware Integration
+
+Closely interacts with hardware components.
