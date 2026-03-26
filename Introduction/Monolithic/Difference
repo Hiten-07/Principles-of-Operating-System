@@ -1,0 +1,7 @@
+| Feature     | Monolithic OS       | Layered OS      |
+| ----------- | ------------------- | --------------- |
+| Structure   | Single large system | Multiple layers |
+| Speed       | Faster              | Slightly slower |
+| Maintenance | Difficult           | Easier          |
+| Modularity  | Low                 | High            |
+| Debugging   | Hard                | Easier          |
