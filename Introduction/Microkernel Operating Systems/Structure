@@ -1,0 +1,13 @@
+User Applications
+        ↓
+User Space Services
+(File system, Drivers, Network)
+        ↓
+-------------------------
+|      Microkernel      |
+| Process Management    |
+| Memory Management     |
+| IPC                   |
+-------------------------
+        ↓
+      Hardware
