@@ -1,0 +1,3 @@
+✘ Performance overhead (communication between services)
+✘ More system calls
+✘ IPC may slow system
