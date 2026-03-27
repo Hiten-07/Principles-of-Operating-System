@@ -1,0 +1,21 @@
+1. Resource Management
+Manages:
+Virtual machines
+Storage
+Network resources
+Processing power
+
+2. Virtualization
+Creates multiple virtual systems on one physical server.
+
+3. Remote Access
+Users can access services from anywhere using the internet.
+
+4. Scalability
+Resources can be increased or decreased based on demand.
+
+5. Security Management
+Provides:
+Authentication
+Data encryption
+Access control
