@@ -1,0 +1,6 @@
+| Feature     | Traditional OS    | Cloud OS            |
+| ----------- | ----------------- | ------------------- |
+| Location    | Local computer    | Internet servers    |
+| Access      | Physical device   | Remote access       |
+| Scalability | Limited           | Highly scalable     |
+| Examples    | Microsoft Windows | Amazon Web Services |
