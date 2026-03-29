@@ -1,0 +1,66 @@
+1. Parent and Child Process
+When a process creates another process, the creating process is called the parent process, and the created process is called the child process.
+
+Key points:
+Parent can create multiple child processes
+Child may also create its own children (process tree)
+Parent may wait for child execution
+
+Example:
+In operating systems like Linux and UNIX, a process can create another process using the fork() system call.
+
+Example structure:
+Parent Process
+     │
+ ├── Child Process 1
+ ├── Child Process 2
+ └── Child Process 3
+
+2. Independent Processes
+Processes that do not share data or resources are called independent processes.
+
+Characteristics:
+No data sharing
+No communication needed
+Execution does not affect other processes
+
+Example:
+Running a calculator and a music player separately.
+
+3. Cooperating Processes
+Processes that share data or resources are called cooperating processes.
+
+Characteristics:
+Share information
+Communicate with each other
+Improve performance
+Reasons for cooperation:
+Information sharing
+Speed improvement
+Modularity
+Convenience
+
+Example:
+Multiple processes working on a database system.
+
+4. Process Communication (IPC – Inter Process Communication)
+
+Processes communicate using IPC mechanisms.
+
+Methods:
+Shared Memory
+Message Passing
+Pipes
+Sockets
+5. Process Synchronization
+
+When processes share resources, synchronization is required to avoid conflicts.
+
+Example:
+
+If two processes try to update the same file simultaneously, synchronization prevents data corruption.
+
+Tools:
+Semaphores
+Mutex
+Monitors
