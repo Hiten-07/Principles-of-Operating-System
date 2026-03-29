@@ -1,0 +1,16 @@
+A Thread is the smallest unit of CPU execution within a process. A process may contain multiple threads that share the same memory.
+
+Simple definition:
+Thread = Smallest execution unit inside a process.
+
+Characteristics:
+Lightweight process
+Shares memory with other threads
+Faster than processes
+Independent execution path
+
+Example:
+In a browser:
+One thread loads images
+One thread runs scripts
+One thread handles user input
