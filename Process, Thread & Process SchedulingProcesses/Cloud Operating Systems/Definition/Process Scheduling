@@ -1,0 +1,11 @@
+Process Scheduling is the method used by the OS to decide which process gets CPU time.
+
+Simple definition:
+Process Scheduling = Selecting the next process for execution.
+
+Objectives:
+Maximum CPU utilization
+Minimum waiting time
+Fair allocation
+Maximum throughput
+Fast response time
