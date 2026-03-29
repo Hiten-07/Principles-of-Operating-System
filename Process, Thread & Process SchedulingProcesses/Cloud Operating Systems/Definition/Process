@@ -1,0 +1,14 @@
+A Process is a program that is currently being executed. It is an active entity that contains program code, data, stack, and execution state.
+
+Simple definition:
+Process = Program in execution.
+Components of a Process:
+Program code (text section)
+Data section
+Stack (function calls)
+Heap (dynamic memory)
+Program Counter
+CPU registers
+Example:
+
+If you open a browser like Google Chrome or a text editor, each running instance is a process.
