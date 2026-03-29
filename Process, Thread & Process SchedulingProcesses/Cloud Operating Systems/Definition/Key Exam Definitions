@@ -1,0 +1,8 @@
+Process:
+A process is a program in execution.
+
+Thread:
+A thread is the smallest unit of execution inside a process.
+
+Process Scheduling:
+Process scheduling is the method of selecting a process from the ready queue to allocate CPU time.
