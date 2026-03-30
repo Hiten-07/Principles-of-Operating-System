@@ -1,0 +1,14 @@
+        New
+         │
+         ↓
+       Ready ←────────────┐
+         │                │
+         ↓                │
+      Running ───→ Waiting
+         │                │
+         ↓                │
+     Terminated           │
+                          │
+             (Event completion)
+                          │
+                          └────────→ Ready
