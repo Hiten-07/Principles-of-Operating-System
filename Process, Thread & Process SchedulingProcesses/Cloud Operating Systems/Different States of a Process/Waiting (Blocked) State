@@ -1,0 +1,9 @@
+The process is waiting for some event or resource.
+
+Reasons:
+Waiting for I/O operation
+Waiting for a signal
+Waiting for resource availability
+
+Example:
+Waiting for file reading.
