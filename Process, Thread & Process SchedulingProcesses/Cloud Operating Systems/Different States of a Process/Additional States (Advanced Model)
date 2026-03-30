@@ -1,0 +1,9 @@
+Some OS also include:
+
+6. Suspended Ready
+
+Process is ready but stored in secondary memory.
+
+7. Suspended Waiting
+
+Process waiting and also swapped out of main memory.
