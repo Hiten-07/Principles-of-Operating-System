@@ -1,0 +1,6 @@
+The process is ready to run and waiting for CPU allocation.
+
+Characteristics:
+Loaded in main memory
+Waiting in ready queue
+Needs CPU to execute
