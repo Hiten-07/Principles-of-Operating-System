@@ -1,0 +1,6 @@
+The process is currently being executed by the CPU.
+
+Characteristics:
+Instructions are executed
+Only one process runs per CPU core at a time
+May move to waiting or ready state
