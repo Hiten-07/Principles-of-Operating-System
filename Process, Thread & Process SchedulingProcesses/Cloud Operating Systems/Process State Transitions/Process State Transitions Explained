@@ -1,0 +1,43 @@
+1. New → Ready (Admitted)
+When a process is created and admitted into the ready queue.
+
+Reason:
+OS accepts the process
+Required resources allocated
+
+2. Ready → Running (Scheduler Dispatch)
+When CPU is assigned to the process.
+
+Reason:
+Short term scheduler selects process
+Process starts execution
+
+3. Running → Waiting (I/O or Event Wait)
+Process requests I/O or waits for some event.
+
+Reason:
+File operation
+Device input/output
+Resource wait
+
+4. Waiting → Ready (Event Completion)
+After the event finishes, the process becomes ready again.
+
+Reason:
+I/O completed
+Resource available
+
+5. Running → Ready (Interrupt / Time Slice Expired)
+Process is interrupted and moved back to ready queue.
+
+Reason:
+Time quantum finished (Round Robin)
+Higher priority process arrived
+
+6. Running → Terminated (Exit)
+Process finishes execution.
+
+Reason:
+Program completed
+Process killed
+Fatal error
