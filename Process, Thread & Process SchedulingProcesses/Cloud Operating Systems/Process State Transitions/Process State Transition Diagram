@@ -1,0 +1,13 @@
+New → Ready → Running → Terminated
+            ↓     ↑
+         Waiting ─┘
+
+New --(admitted)--> Ready --(dispatch)--> Running --(exit)--> Terminated
+                              │
+                              │ (I/O request)
+                              ↓
+                           Waiting
+                              │
+                              │ (I/O complete)
+                              ↓
+                             Ready
