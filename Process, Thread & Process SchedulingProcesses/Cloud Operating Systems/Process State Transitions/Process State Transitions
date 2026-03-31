@@ -1,0 +1,4 @@
+Process State Transitions describe how a process moves from one state to another during its life cycle depending on events like CPU allocation, I/O requests, and process completion.
+
+Simple definition:
+Process State Transition = Movement of a process from one state to another.
