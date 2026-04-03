@@ -1,0 +1,4 @@
+Context Switching is the process of saving the state (context) of a currently running process and loading the state of another process so that CPU can switch execution between processes.
+
+Simple definition:
+Context Switching = Switching CPU from one process to another by saving and restoring their states.
