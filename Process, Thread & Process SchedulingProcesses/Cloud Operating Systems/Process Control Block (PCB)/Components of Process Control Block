@@ -1,0 +1,48 @@
+1. Process ID (PID)
+Unique identification number of the process.
+
+Example:
+Process numbers assigned in systems like Linux or Microsoft Windows.
+
+2. Process State
+Stores the current state:
+New
+Ready
+Running
+Waiting
+Terminated
+
+3. Program Counter
+Stores the address of the next instruction to be executed.
+
+4. CPU Registers
+Stores register values like:
+Accumulator
+Index registers
+Stack pointer
+
+5. CPU Scheduling Information
+Contains scheduling data such as:
+Priority
+Queue pointers
+Scheduling parameters
+
+6. Memory Management Information
+Contains memory-related data:
+Base register
+Limit register
+Page tables
+Segment tables
+
+7. Accounting Information
+Stores:
+CPU usage time
+Process number
+Time limits
+User ID
+
+8. I/O Status Information
+Contains:
+Allocated devices
+Open files list
+I/O request status
