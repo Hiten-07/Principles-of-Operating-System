@@ -1,0 +1,6 @@
+The PCB helps the OS to:
+
+Track process status
+Schedule processes
+Perform context switching
+Manage resources
