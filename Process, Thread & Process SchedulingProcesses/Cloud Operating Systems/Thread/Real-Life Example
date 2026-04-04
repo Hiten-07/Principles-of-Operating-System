@@ -1,0 +1,5 @@
+In a web browser like Google Chrome:
+One thread handles user interface
+One thread loads web pages
+One thread runs scripts
+This allows smooth multitasking.
