@@ -1,0 +1,11 @@
+Each thread has its own:
+Thread ID
+Program Counter
+Register set
+Stack
+
+Threads share the following with other threads in the same process:
+Code section
+Data section
+Heap memory
+Open files
