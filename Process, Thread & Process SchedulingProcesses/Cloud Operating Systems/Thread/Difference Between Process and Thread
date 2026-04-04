@@ -1,0 +1,7 @@
+| Feature       | Process              | Thread            |
+| ------------- | -------------------- | ----------------- |
+| Basic unit    | Program in execution | Unit of execution |
+| Memory        | Separate             | Shared            |
+| Creation time | Slow                 | Fast              |
+| Communication | IPC required         | Easy              |
+| Overhead      | High                 | Low               |
