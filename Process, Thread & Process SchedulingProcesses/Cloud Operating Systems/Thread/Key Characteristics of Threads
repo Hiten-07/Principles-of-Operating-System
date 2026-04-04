@@ -1,0 +1,5 @@
+Threads exist inside a process
+Multiple threads share the same memory
+Each thread has its own execution path
+Thread creation is faster than process creation
+Threads improve performance through parallelism
