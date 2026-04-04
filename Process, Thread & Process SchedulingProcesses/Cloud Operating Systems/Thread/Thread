@@ -1,0 +1,5 @@
+A Thread is the smallest unit of execution within a process. A process can contain one or more threads that execute tasks concurrently.
+
+Simple definition:
+Thread = Smallest unit of CPU execution inside a process.
+A thread is sometimes called a lightweight process because it requires fewer resources than a full process.
