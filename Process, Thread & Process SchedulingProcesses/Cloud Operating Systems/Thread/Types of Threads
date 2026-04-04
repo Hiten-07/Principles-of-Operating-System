@@ -1,0 +1,16 @@
+1. User-Level Threads (ULT)
+Managed by user-level libraries instead of the OS.
+
+Characteristics:
+Fast creation
+OS not aware of threads
+If one thread blocks, entire process may block
+
+2. Kernel-Level Threads (KLT)
+Managed directly by the operating system.
+
+Characteristics:
+OS schedules threads
+Better concurrency
+Higher overhead than user threads
+Used in systems like Linux and Microsoft Windows.
