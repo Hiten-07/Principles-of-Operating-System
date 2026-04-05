@@ -1,0 +1,7 @@
+Multithreaded programs scale better on multi-core systems.
+
+Benefit:
+More threads can use more CPU cores
+Improves throughput
+
+Used in operating systems like Microsoft Windows and Linux.
