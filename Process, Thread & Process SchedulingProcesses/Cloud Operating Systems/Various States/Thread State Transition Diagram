@@ -1,0 +1,5 @@
+New → Ready → Running → Terminated
+             ↓
+          Waiting
+             ↓
+           Ready
