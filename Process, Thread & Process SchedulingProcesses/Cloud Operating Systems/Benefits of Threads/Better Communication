@@ -1,0 +1,5 @@
+Threads communicate easily because they share memory.
+
+Compared to processes:
+Processes need IPC
+Threads can directly access shared data
