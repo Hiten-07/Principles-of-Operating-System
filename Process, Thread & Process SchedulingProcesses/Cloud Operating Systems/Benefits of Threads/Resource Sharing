@@ -1,0 +1,6 @@
+Threads of the same process share:
+Memory
+Files
+Data
+Benefit:
+Easy communication and efficient resource usage.
