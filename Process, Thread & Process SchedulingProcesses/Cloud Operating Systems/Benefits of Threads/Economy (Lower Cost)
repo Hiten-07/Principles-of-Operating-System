@@ -1,0 +1,7 @@
+Threads require fewer resources than processes.
+
+Why:
+Faster creation
+Faster termination
+Less memory usage
+Faster context switching
