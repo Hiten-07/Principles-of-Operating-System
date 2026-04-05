@@ -1,0 +1,36 @@
+1. New (Created)
+The thread is created but not yet started.
+
+Characteristics:
+Thread object created
+Resources allocated
+Waiting to start execution
+
+2. Ready (Runnable)
+Thread is ready to execute and waiting for CPU time.
+
+Characteristics:
+Waiting in ready queue
+Scheduler decides execution time
+
+3. Running
+Thread is currently executing on the CPU.
+
+Characteristics:
+Instructions are executed
+Can move to waiting or terminated state
+
+4. Blocked / Waiting
+Thread is waiting for some resource or event.
+
+Reasons:
+Waiting for I/O
+Waiting for lock
+Waiting for signal
+
+5. Terminated (Dead)
+Thread has completed execution or stopped.
+
+Characteristics:
+Resources released
+Cannot be executed again
