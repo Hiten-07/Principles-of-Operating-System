@@ -1,0 +1,8 @@
+Threads allow multiple tasks to run simultaneously on multi-core processors.
+
+Benefit:
+Faster execution
+Better performance
+
+Example:
+Video editing software performing rendering and user interaction simultaneously.
