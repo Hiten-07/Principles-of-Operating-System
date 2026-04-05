@@ -1,0 +1,7 @@
+Threads allow a program to continue running even if part of it is blocked.
+
+Example:
+In a browser like Google Chrome:
+One thread loads a webpage
+Another thread responds to user input
+This keeps the application responsive.
