@@ -1,0 +1,4 @@
+Like processes, threads also pass through different states during their life cycle. These states show the current condition of a thread during execution.
+
+Simple definition:
+Thread states = Different stages in the life cycle of a thread.
