@@ -1,0 +1,18 @@
+These threads are directly managed by the operating system kernel.
+
+Characteristics:
+Managed by OS
+Kernel schedules threads
+True parallel execution possible
+
+Advantages:
+✔ Better CPU utilization
+✔ True multithreading
+✔ One blocked thread does not stop others
+
+Disadvantages:
+✘ Slower creation than user threads
+✘ More overhead (kernel involvement)
+
+Examples:
+Supported by operating systems like Microsoft Windows and Linux.
