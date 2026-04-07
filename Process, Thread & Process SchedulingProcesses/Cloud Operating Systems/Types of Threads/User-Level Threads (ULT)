@@ -1,0 +1,19 @@
+These threads are managed by user-level libraries instead of the operating system kernel.
+
+Characteristics:
+Managed in user space
+OS is not aware of these threads
+Faster creation and switching
+Implemented by thread libraries
+
+Advantages:
+✔ Fast thread management
+✔ No kernel involvement
+✔ Efficient switching
+
+Disadvantages:
+✘ If one thread blocks, entire process may block
+✘ Cannot take full advantage of multi-core CPUs
+
+Examples:
+User thread libraries used in systems like POSIX Threads (Pthreads).
