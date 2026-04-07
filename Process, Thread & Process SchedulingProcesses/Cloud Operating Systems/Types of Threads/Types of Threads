@@ -1,0 +1,5 @@
+Threads are mainly classified based on how they are managed.
+
+Main types:
+User-Level Threads (ULT)
+Kernel-Level Threads (KLT)
