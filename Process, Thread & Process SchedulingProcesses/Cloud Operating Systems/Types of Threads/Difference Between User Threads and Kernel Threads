@@ -1,0 +1,7 @@
+| Feature         | User Threads         | Kernel Threads     |
+| --------------- | -------------------- | ------------------ |
+| Managed by      | User library         | Operating System   |
+| Speed           | Faster               | Slower             |
+| CPU utilization | Limited              | Better             |
+| Blocking        | Blocks whole process | Only blocks thread |
+| Implementation  | User space           | Kernel space       |
