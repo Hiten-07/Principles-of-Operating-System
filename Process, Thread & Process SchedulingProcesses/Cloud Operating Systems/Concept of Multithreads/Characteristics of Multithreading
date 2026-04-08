@@ -1,0 +1,5 @@
+Threads share the same memory
+Each thread has its own execution path
+Threads run concurrently
+Improves application performance
+Efficient CPU usage
