@@ -1,0 +1,8 @@
+Instead of running one task at a time, a process is divided into multiple threads, where each thread performs a separate task.
+
+Example:
+
+In a browser like Google Chrome:
+One thread handles user input
+One thread loads web pages
+One thread plays media
