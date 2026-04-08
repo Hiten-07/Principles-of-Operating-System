@@ -1,0 +1,6 @@
+| Feature     | Single Thread | Multithreading |
+| ----------- | ------------- | -------------- |
+| Execution   | One task      | Multiple tasks |
+| Performance | Slower        | Faster         |
+| CPU usage   | Low           | Efficient      |
+| Complexity  | Simple        | Complex        |
