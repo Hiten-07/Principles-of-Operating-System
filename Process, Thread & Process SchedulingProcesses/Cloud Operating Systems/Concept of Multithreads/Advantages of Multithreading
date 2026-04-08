@@ -1,0 +1,15 @@
+1. Improved Performance
+Multiple tasks execute simultaneously.
+
+2. Better Responsiveness
+Program remains active even if one thread is busy.
+
+3. Resource Sharing
+Threads share memory and resources.
+
+4. Economy
+Thread creation is cheaper than process creation.
+
+5. Parallel Execution
+Utilizes multi-core processors effectively.
+Used in operating systems like Microsoft Windows and Linux.
