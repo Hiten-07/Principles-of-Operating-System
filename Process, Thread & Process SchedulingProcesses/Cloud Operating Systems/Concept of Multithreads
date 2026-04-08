@@ -1,5 +1,0 @@
-Multithreading is a technique where multiple threads of a process execute concurrently to perform different tasks within the same program.
-
-Simple definition:
-Multithreading = Multiple threads executing within a single process.
-It allows a program to perform multiple operations at the same time.
