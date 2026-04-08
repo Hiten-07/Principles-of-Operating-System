@@ -1,0 +1,5 @@
+Example: Word Processor
+One thread checks spelling
+One thread saves file
+One thread accepts typing input
+This allows smooth operation.
