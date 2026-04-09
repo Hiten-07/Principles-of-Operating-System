@@ -1,0 +1,4 @@
+Process Scheduling is the method used by the operating system to decide which process gets the CPU for execution when multiple processes are ready.
+Simple definition:
+Process Scheduling = Selecting one process from the ready queue to execute.
+The main goal is to keep the CPU busy and improve system performance.
