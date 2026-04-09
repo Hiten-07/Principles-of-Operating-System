@@ -1,0 +1,13 @@
+1. Long-Term Scheduler (Job Scheduler)
+Selects processes from job pool
+Loads them into memory
+Controls multiprogramming level
+
+2. Short-Term Scheduler (CPU Scheduler)
+Selects process from ready queue
+Allocates CPU
+Works very frequently
+
+3. Medium-Term Scheduler
+Temporarily removes processes from memory
+Manages process swapping
