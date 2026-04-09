@@ -1,0 +1,25 @@
+1. Preemptive Scheduling
+CPU can be taken away from a process.
+
+Example:
+Round Robin
+Priority (preemptive)
+
+Advantage:
+✔ Better response time
+
+Disadvantage:
+✘ Context switching overhead
+
+2. Non-Preemptive Scheduling
+CPU is not taken away until process finishes.
+
+Example:
+FCFS
+SJF (non-preemptive)
+
+Advantage:
+✔ Simple implementation
+
+Disadvantage:
+✘ Poor response time
