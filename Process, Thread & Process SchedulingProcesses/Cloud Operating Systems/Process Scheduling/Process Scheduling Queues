@@ -1,0 +1,8 @@
+1. Job Queue
+Contains all processes in the system.
+
+2. Ready Queue
+Contains processes ready for execution.
+
+3. Waiting Queue
+Contains processes waiting for I/O or events.
