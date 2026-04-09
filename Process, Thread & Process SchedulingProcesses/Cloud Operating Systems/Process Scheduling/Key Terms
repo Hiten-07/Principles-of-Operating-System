@@ -1,0 +1,4 @@
+Burst Time: Time required by process in CPU
+Waiting Time: Time process waits in ready queue
+Turnaround Time: Completion time – Arrival time
+Response Time: First response time after submission
