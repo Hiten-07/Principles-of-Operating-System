@@ -1,0 +1,12 @@
+1. FCFS (First Come First Serve)
+Processes executed in arrival order.
+
+2. SJF (Shortest Job First)
+Process with shortest burst time executes first.
+
+3. Round Robin
+Each process gets fixed time slice.
+
+4. Priority Scheduling
+Process with highest priority executes first.
+Used in operating systems like Linux and Microsoft Windows.
